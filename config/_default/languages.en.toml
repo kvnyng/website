@@ -1,0 +1,26 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "kvnyng"
+
+[params]
+    displayName = "EN"
+    isoCode = "en"
+    rtl = false
+    dateFormat = "2 January 2006"
+    logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+    description = "My awesome website"
+  #  copyright = "Copyright 2023"
+
+[author]
+    tagline = "Hi there!"
+    name = "Kevin Yang"
+    image = "img/blowfish_logo.png"
+    headline = "Welcome to my site!"
+    bio = "A little bit about you"
+    links = [
+        { email = "mailto:hello@your_domain.com" },
+        { github = "https://github.com/username" },
+        { linkedin = "https://linkedin.com/in/username" },
+    ]
